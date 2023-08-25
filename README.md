@@ -13,16 +13,6 @@
 
 Hey there! 👋 I'm `Jonatha Costa`, a developer who's all about turning ideas into reality through code. With a strong passion for technology and a knack for problem-solving, I'm on a journey to create meaningful and impactful projects.
 
-## Projects
-
-Here are some of the exciting projects I've been working on:
-
-- **Project A:** A brief description of Project A. [Link to Project A](#)
-- **Project B:** A brief description of Project B. [Link to Project B](#)
-- **Project C:** A brief description of Project C. [Link to Project C](#)
-
-Feel free to explore these projects and provide feedback. Your input is valuable to me!
-
 ## Get in Touch
 
 Connect with me on various platforms:
