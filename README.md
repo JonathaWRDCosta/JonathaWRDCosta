@@ -1,6 +1,5 @@
 # Jonatha Costa - Portfolio and Project Showcase
-
-[![Portfolio Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://personal-portfolio-umiv.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://personal-portfolio-umiv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-costa-574847261/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonathaWRDCosta)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damnfinecoffee2/)
