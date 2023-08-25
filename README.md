@@ -1,10 +1,10 @@
 # Jonatha Costa - Portfolio and Project Showcase
 
 [![Portfolio Status](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](www.google.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](instagram.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](instagram.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](youtube.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-costa-574847261/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonathaWRDCosta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/damnfinecoffee2/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@damnfinecoffee2)
 
 
 ![Jonatha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathaWRDCosta&show_icons=true&theme=gruvbox)
@@ -17,10 +17,10 @@ Hey there! 👋 I'm `Jonatha Costa`, a developer who's all about turning ideas i
 
 Connect with me on various platforms:
 
-- 💼 [LinkedIn](instagram.com): Let's connect on LinkedIn to share professional experiences and knowledge.
-- 🐙 [GitHub](instagram.com): Check out my GitHub profile for a closer look at my repositories and contributions.
-- 📺 [YouTube](youtube.com): Join me on YouTube, where I share coding tutorials and insights into my projects.
-- 📸 [Instagram](instagram.com): Follow me on Instagram for behind-the-scenes looks at my coding journey.
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonatha-costa-574847261/): Let's connect on LinkedIn to share professional experiences and knowledge.
+- 🐙 [GitHub](https://github.com/JonathaWRDCosta): Check out my GitHub profile for a closer look at my repositories and contributions.
+- 📺 [YouTube](https://www.youtube.com/@damnfinecoffee2): Join me on YouTube, where I share coding tutorials and insights into my projects.
+- 📸 [Instagram](https://www.instagram.com/damnfinecoffee2/): Follow me on Instagram for behind-the-scenes looks at my coding journey.
 
 
 ## Technologies I Love
